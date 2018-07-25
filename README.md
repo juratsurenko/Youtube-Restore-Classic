@@ -5,3 +5,4 @@ You can use [GreaseMonkey](https://addons.mozilla.org/nl/firefox/addon/greasemon
 or [TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) for Chrome to install this script.
 
 [Install Script from Greasyfork](https://greasyfork.org/en/scripts/34818-youtube-restore-classic)
+[Install Script from OpenUserJS](https://openuserjs.org/scripts/Cpt_mathix/Youtube_-_Restore_Classic)
